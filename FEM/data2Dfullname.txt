@@ -1,0 +1,12 @@
+initial temperature = 100
+simulation time = 500
+simulation step time = 50 (dTau)
+ambient temperature = 1200
+alfa = 300
+lenght H = 0.100
+lenght B = 0.100
+nb = 4
+nh = 4
+c = 700 (specific heat)
+k = 25 (conductivity)
+ro = 7800 (density)
